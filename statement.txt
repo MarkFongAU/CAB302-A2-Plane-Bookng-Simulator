@@ -1,0 +1,31 @@
+Ryan Kim: n9132953
+Yee Chen Fong: n9602976
+
+Summary of contribution:
+- Ryan: 50%
+	1. First.java
+	2. Business.java
+	3. Premium.java
+	4. Economy.java
+	5. Passenger.java
+	6. A380Tests.java
+	7. ChartPanel.java
+
+- Fong: 50%
+	1. A380.java
+	2. B747.java
+	3. Aircraft.java
+	4. FirstTests.java
+	5. BusinessTests.java
+	6. PremiumTests.java
+	7. EconomyTests.java
+	8. GUISimulator.java
+
+We both agree the summary is correct. 
+
+Statement of completeness:
+Both the charting version of the GUI and the JTextArea log is done. 
+Option to Run program via command line argument using "Run Configurations" is also done.
+
+Note to marker:
+Everything is done.

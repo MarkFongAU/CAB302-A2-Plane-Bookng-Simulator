@@ -1,0 +1,450 @@
+* 05fba52 : Run Configuration Commit
+* 08bfb63 : Edit Code Appearance before submissiom
+* 46915c2 : PPT Last Commit (hopefully)
+* 94887c0 : Change Summary Graph and GUI Testing
+* 3f6d20b : Edit the Layout
+* fbbd341 : Final Version with GUI Test
+* 0332d6e : Change textarea font to 16
+* fda8b73 : Add logging write function
+* 04f0e8a : Finish
+* 9fefbfe : Log Summary
+*   e2846bc : Merge branch 'master' of https://mark_fong@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\  
+| * 4917ff3 : Simulator
+* | 03a2296 : Simulator
+|/  
+* 2a4c578 : GUISimulator
+* 2f401ae : Update
+*   0352458 : Merge remote-tracking branch 'origin/master'
+|\  
+| *   5b16ce5 : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+| |\  
+* | \   09f16d4 : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * 601ef89 : Gui Simulator with comments and javadoc
+* | f28ba51 : chartpanel
+* | cc69c11 : chart panel
+|/  
+*   ddfe797 : Merge branch 'master' of https://mark_fong@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\  
+| * 5ec8092 : ChartPanel
+| *   c045e2a : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+| |\  
+| * | 708bcc9 : Simualtion Runner and Simulator
+* | | 781be3f : New Simulator and Simulation Runner
+| |/  
+|/|   
+* | 6a86cdd : GUI Simulator v1 and ChartPanel
+|/  
+* 4f5702c : Changed by Hogan
+* ef0a3a8 : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+* 138cd34 : Aircraft
+* 18f8a2e : Asgn2passengers
+*   8689b9f : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\  
+| * 6b83953 : Aircraft
+| * dbfb660 : Business, Economy, First, Premium
+| * 7c78e54 : First Test
+| * 8dc0235 : First Test
+| * 3701efd : A380 and B747 class
+| * 74cbf8f : First Tests
+* | f9eefb1 : Re Try
+* | 8629dbe : A380TEST
+|/  
+* e616c8d : First class
+* c1193ca : A380 Test
+* e252165 : test test
+*   13d4b3c : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\  
+| * ea51541 : Test
+* | a7eefaa : test
+|/  
+* 86609d3 : changer
+* 8b94a00 : removed wrong file
+* 9093dd5 : test
+* 4a38c26 : Test changed
+* 7df2c9c : test changed
+*   7dcdfe5 : Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+|\  
+| * f7598cd : small change
+| * e8e35de : second
+* | 1bb06f1 : CHECK THE GIT
+* | dc75d5b : ewwegweg
+|/  
+* 2bfcc3c : first commit
+* 74aa172 : init repocommit 05fba526a841dab27b4b459bbefa93a2804b1a41
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu Jun 2 15:34:02 2016 +1000
+
+    Run Configuration Commit
+
+commit 08bfb633c6e31c69e28de36177ed20e2e1592057
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Wed Jun 1 13:21:52 2016 +1000
+
+    Edit Code Appearance before submissiom
+
+commit 46915c274d8c0669038f1379814da72c614280f6
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Tue May 31 23:26:35 2016 +1000
+
+    PPT Last Commit (hopefully)
+
+commit 94887c0f98a3c088c3c8b5e0318be04b4bfc2c82
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Tue May 31 18:40:00 2016 +1000
+
+    Change Summary Graph and GUI Testing
+
+commit 3f6d20ba144bda5ee446542c2a366f05490cf84e
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Sat May 28 21:16:33 2016 +1000
+
+    Edit the Layout
+
+commit fbbd34123878fd5fd9353ff86aa618cb32e8ebd4
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Fri May 27 16:08:36 2016 +1000
+
+    Final Version with GUI Test
+
+commit 0332d6e991f900b7611a1cac7fc4af4fe8636904
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Fri May 27 13:03:23 2016 +1000
+
+    Change textarea font to 16
+
+commit fda8b73e7c65fca2729cc969bfe0b1abad4c0056
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Fri May 27 12:41:54 2016 +1000
+
+    Add logging write function
+
+commit 04f0e8a0266c29fd1f0ef63d988df65a0148fd05
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:31:57 2016 +1000
+
+    Finish
+
+commit 9fefbfec0337ff56097d1e4a3d28eac96c3fa621
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:11:35 2016 +1000
+
+    Log Summary
+
+commit e2846bc3be2413f4d87360d313e3e6be31137d66
+Merge: 03a2296 4917ff3
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:10:13 2016 +1000
+
+    Merge branch 'master' of https://mark_fong@bitbucket.org/cab302assignment/assignment2aircraft.git
+
+commit 03a2296e5cb185fa967499ba4cdeb58f7f9df4ff
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:08:45 2016 +1000
+
+    Simulator
+
+commit 4917ff3aafc0457eca560680407cee1fd009ce36
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:08:45 2016 +1000
+
+    Simulator
+
+commit 2a4c578d7cb515aa5e5f8e0131248a45f9a63298
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:03:20 2016 +1000
+
+    GUISimulator
+
+commit 2f401ae87667eeb548ff3f335a2762ff4a18b70a
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 23:00:11 2016 +1000
+
+    Update
+
+commit 0352458d9ca5d390fe5c97fe7cfb454fa8ec9b34
+Merge: 09f16d4 5b16ce5
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 22:53:00 2016 +1000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 09f16d45985a3dfa30e4c602f416638ab53d84ed
+Merge: f28ba51 601ef89
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 26 19:31:59 2016 +1000
+
+    Merge branch 'master' of
+    https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+    
+    Conflicts:
+    	AircraftSimulator/src/asgn2Simulators/GUISimulator.java
+
+commit 5b16ce5265bc13775feed46d7345cc979f251ac1
+Merge: f28ba51 601ef89
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 26 19:31:59 2016 +1000
+
+    Merge branch 'master' of
+    https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+    
+    Conflicts:
+    	AircraftSimulator/src/asgn2Simulators/GUISimulator.java
+
+commit f28ba515585fe493025874f8b414dc4dfab91af3
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 26 18:37:19 2016 +1000
+
+    chartpanel
+
+commit cc69c11a546c13f8ebc3c83b8291e9582b83ae08
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 26 18:36:55 2016 +1000
+
+    chart panel
+
+commit 601ef895f9476f819378a9156d533d0c06e507cf
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 26 02:51:23 2016 +1000
+
+    Gui Simulator with comments and javadoc
+
+commit ddfe797e8d2e4b4040eab3f7ac04bc6c0b1a37a4
+Merge: 781be3f 5ec8092
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Wed May 25 20:38:42 2016 +1000
+
+    Merge branch 'master' of
+    https://mark_fong@bitbucket.org/cab302assignment/assignment2aircraft.git
+
+commit 781be3f525f5c4a73db9b0a4ad2051ff86fd81c8
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Wed May 25 20:38:04 2016 +1000
+
+    New Simulator and Simulation Runner
+
+commit 5ec8092ae081c27f7d95f8106bf2a9e5abe433c9
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 25 20:25:02 2016 +1000
+
+    ChartPanel
+
+commit c045e2a9d3b121782b9e6789f8d97c12cb2208bc
+Merge: 708bcc9 6a86cdd
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 25 20:17:06 2016 +1000
+
+    Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+
+commit 708bcc9a3b19bc324cc687c67a3b2016f02ecb7b
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 25 20:16:21 2016 +1000
+
+    Simualtion Runner and Simulator
+
+commit 6a86cddda48d80d18a81a7cf51daa54d2ef24226
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Wed May 25 19:46:10 2016 +1000
+
+    GUI Simulator v1 and ChartPanel
+
+commit 4f5702c33784588d02f70fd90bed948b6b7edbff
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 25 17:14:53 2016 +1000
+
+    Changed by Hogan
+
+commit ef0a3a81900933c99ad3fe921c93690f0a2af68e
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Sat May 21 18:47:05 2016 +1000
+
+    Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+    
+    Conflicts:
+    	AircraftSimulator/src/asgn2Tests/FirstTests.java
+
+commit 138cd34762f1572e6658ac7c7a36346acc8955b9
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Sat May 21 00:45:26 2016 +1000
+
+    Aircraft
+
+commit 18f8a2e5d846629d5083559f78d0aa698998a91d
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Fri May 20 21:17:33 2016 +1000
+
+    Asgn2passengers
+
+commit 8689b9f2470ce0056ce4444c7b44a401efff822a
+Merge: f9eefb1 6b83953
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Fri May 20 20:47:50 2016 +1000
+
+    Merge branch 'master' of
+    https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+    
+    Conflicts:
+    	AircraftSimulator/src/asgn2Tests/FirstTests.java
+
+commit f9eefb16460b649bdc88110edf60621562a31535
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Fri May 20 20:45:01 2016 +1000
+
+    Re Try
+
+commit 8629dbe4614a9aca32a69996d4f23461f3edc4cd
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Fri May 20 20:30:40 2016 +1000
+
+    A380TEST
+
+commit 6b839539816b359c1a282cc3a8b266db8ac90197
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Fri May 20 02:12:21 2016 +1000
+
+    Aircraft
+
+commit dbfb660aabfe18f9d861af021c9e7ccfed4c462d
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Fri May 20 02:11:04 2016 +1000
+
+    Business, Economy, First, Premium
+
+commit 7c78e543d7074fe6072009e9214b5743d8bc420d
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 23:26:12 2016 +1000
+
+    First Test
+
+commit 8dc0235f828e3886c64c43e43b096f291f02c5b0
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 23:24:22 2016 +1000
+
+    First Test
+
+commit 3701efd8251842fc32cc638519e1550a27d71d20
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 23:18:13 2016 +1000
+
+    A380 and B747 class
+
+commit 74cbf8fc3cdc619e32ec2306cef491e671998b82
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 23:15:58 2016 +1000
+
+    First Tests
+
+commit e616c8d40f93b2a1b83e2fb8617723019d6aef81
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 19 22:19:13 2016 +1000
+
+    First class
+
+commit c1193ca04d0d947939aeea2bea063d086632a4f4
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 22:17:45 2016 +1000
+
+    A380 Test
+
+commit e252165c7ba389f9425b3515df146d2db2a021e6
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 19 22:14:36 2016 +1000
+
+    test test
+
+commit 13d4b3cc2f68e7c87a95a48552d6e6c01faf342e
+Merge: a7eefaa ea51541
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 19 22:02:22 2016 +1000
+
+    Merge branch 'master' of
+    https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+
+commit a7eefaa150e9e8a7cbf7379377ca341a853a2666
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Thu May 19 22:01:11 2016 +1000
+
+    test
+
+commit ea51541e1cb362881209598237c16587e619c630
+Author: Yee Chen Fong <yeechen.fong@connect.qut.edu.au>
+Date:   Thu May 19 22:00:25 2016 +1000
+
+    Test
+
+commit 86609d3172c688db9906261478cd8aa2e63d1e3d
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 18 23:01:32 2016 +1000
+
+    changer
+
+commit 8b94a00cd93027e4157f2262f28c41bbc106172e
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 18 22:57:04 2016 +1000
+
+    removed wrong file
+
+commit 9093dd553eac408c515c3ddd1d40b71422fdc78c
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 18 20:31:57 2016 +1000
+
+    test
+
+commit 4a38c2683cb0b2307ec40e0b6038b0a639826844
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Wed May 18 19:41:09 2016 +1000
+
+    Test changed
+
+commit 7df2c9ca10d327b35fd1f9a13da7c961e9ccabfa
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 22:51:03 2016 +1000
+
+    test changed
+
+commit 7dcdfe54fc769f2edbcf0fb3663fa7fd9b3cbf16
+Merge: 1bb06f1 f7598cd
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 22:43:25 2016 +1000
+
+    Merge branch 'master' of https://Ryanyoujinkim@bitbucket.org/cab302assignment/assignment2aircraft.git
+
+commit 1bb06f1f0227683c417e12369d9fc1ddb51cddd2
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 22:32:21 2016 +1000
+
+    CHECK THE GIT
+
+commit dc75d5b44b560f5f6f82df270763a95b10d09055
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 22:14:23 2016 +1000
+
+    ewwegweg
+
+commit f7598cdf8ecfda8478c9fda896c41a30c1d1d033
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 17:33:35 2016 +1000
+
+    small change
+
+commit e8e35de93750f3a8be5802423d862f4b5d8cc824
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Tue May 17 15:30:55 2016 +1000
+
+    second
+
+commit 2bfcc3c0a87e2347a3c664c5415e4cf7cc668535
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Mon May 16 23:28:25 2016 +1000
+
+    first commit
+
+commit 74aa172374b6e9c421d330a7553d7b09b4b63b8b
+Author: RyanKim <youjin.kim@connect.qut.edu.au>
+Date:   Mon May 16 23:23:50 2016 +1000
+
+    init repo
